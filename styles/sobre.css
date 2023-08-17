@@ -1,0 +1,10 @@
+section.card.sobre{
+    padding: 1rem 1.6rem;
+    font-size: 1rem;
+    margin: 1em 15em
+  }
+  
+  .sobre p{
+    margin-top: 0.5rem;
+    text-align: justify;
+  }
