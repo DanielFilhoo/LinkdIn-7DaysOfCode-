@@ -1,6 +1,5 @@
 # Daniel Alexandre - Desafio LinkedIn 7 Days Of Code (Alura)
 
-![Alura Logo](https://www.alura.com.br/assets/api/share/curso-linkedin-7-dias-code.png)
 
 ## Sobre Mim
 
